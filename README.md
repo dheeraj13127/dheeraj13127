@@ -1,1 +1,1 @@
-# Hi there ! :smile:
+# Hi there everyone! :wave:
