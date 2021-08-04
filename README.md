@@ -8,6 +8,6 @@
 + Currently interning @ Nxt Big Software Solutions :office:
 ---
 <p align="center">
-<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Ficodebreakers.org%2Fblog%2Fcreate-brand-identity-by-hiring-custom-logo-design-companies%2F&psig=AOvVaw3AkaL-LD0NM8MeMwABs3xt&ust=1628151686281000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCNjfwu33lvICFQAAAAAdAAAAABAx" />
+<img src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/vibe.gif" />
 </p>
 
