@@ -8,6 +8,6 @@
 + Currently interning @ Nxt Big Software Solutions :office:
 ---
 <p align="center">
-<img src="https://imgr.search.brave.com/6HXTxkacBcUWBrKNnfPzVhEKKRgy47KT49nLK1NhmSc/fit/500/200/no/1/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM29FZHYx/dmtocXhjeW5rQjVD/L2dpcGh5LmdpZg.gif" />
+<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F465630048956870203%2F&psig=AOvVaw3AkaL-LD0NM8MeMwABs3xt&ust=1628151686281000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCNjfwu33lvICFQAAAAAdAAAAABAn" />
 </p>
 
