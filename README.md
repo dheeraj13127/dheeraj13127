@@ -8,6 +8,6 @@
 + Currently interning @ Nxt Big Software Solutions :office:
 ---
 <p align="center">
-<img src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/vibe.gif" />
+<img src="https://icodebreakers.org/blog/wp-content/uploads/2017/12/logo-maker-1.gif" />
 </p>
 
