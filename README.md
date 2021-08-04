@@ -7,4 +7,4 @@
 + Developer for Life :computer:
 + Currently interning @ Nxt Big Software Solutions :office:
 ---
-<img src="https://imgr.search.brave.com/deqKbuDRdFbj6b5bu4xDfJp3blmykdSySjHn2T-gotg/fit/750/400/no/1/aHR0cHM6Ly93d3cu/YWFscGhhLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/Mi9mdWxsLXN0YWNr/LWRldmVsb3BtZW50/LmdpZg.gif" />
+<img src="https://imgr.search.brave.com/6HXTxkacBcUWBrKNnfPzVhEKKRgy47KT49nLK1NhmSc/fit/500/200/no/1/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvM29FZHYx/dmtocXhjeW5rQjVD/L2dpcGh5LmdpZg.gif" />
