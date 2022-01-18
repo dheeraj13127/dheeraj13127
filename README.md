@@ -9,7 +9,7 @@
 + Worked as Product Engineer @restless-monks
 ---
 <p align="center">
-<img src="https://icodebreakers.org/blog/wp-content/uploads/2017/12/logo-maker-1.gif" height="300" width="600"/>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478lk21jvh8o3bmzt550nit6rq7tptyhbqx7x2umtd&rid=200.webp&ct=g" height="300" width="600"/>
 </p>
 
 
