@@ -6,7 +6,7 @@
 + Looking forward to make better projects :sparkles:
 + React Fanboy! <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="12" height="12" border="10"/>
 + Developer for Life :computer:
-+ Worked as Product Engineer @restless-monks
++ Worked as a Product Engineer @restless-monks
 ---
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478lk21jvh8o3bmzt550nit6rq7tptyhbqx7x2umtd&rid=200.webp&ct=g" height="300" width="600"/>
