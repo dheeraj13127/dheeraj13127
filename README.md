@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj13127)](https://github.com/dheeraj13127/github-readme-stats)
 
-<p aligh="center">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
 
