@@ -13,6 +13,7 @@
 #### My Stats:
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=radical)
 
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true)
 
 
 
