@@ -12,7 +12,7 @@
 ### Github Stats:
 
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark" style="marign-right:10px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark" style="marign-right:30px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
  
