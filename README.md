@@ -15,7 +15,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark"/>
  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj13127)](https://github.com/dheeraj13127/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
