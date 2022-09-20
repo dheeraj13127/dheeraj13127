@@ -11,6 +11,6 @@
 <p align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e478lk21jvh8o3bmzt550nit6rq7tptyhbqx7x2umtd&rid=200.webp&ct=g" height="300" width="600"/>
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj13127&theme=tokyonight&show_icons=true)
 
 
