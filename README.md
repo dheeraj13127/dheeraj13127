@@ -24,7 +24,7 @@
 
 
 ### Tech Stack and Tools:
-<p align="center">
+<p>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -54,7 +54,6 @@
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 </p>
 
