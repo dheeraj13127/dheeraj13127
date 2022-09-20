@@ -12,7 +12,6 @@
 ### Github Stats:
 
 <p align="center">
- <div style="margin-top:30px"></div>
 <img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark" style="marign-top:30px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
