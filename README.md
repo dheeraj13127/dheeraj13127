@@ -11,8 +11,10 @@
 
 ### Github Stats:
 
-<p align="center">
+<p align="">
 <img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark"/>
+ </p><p align="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
 
 <p align="center">
@@ -20,9 +22,7 @@
 </p>
 
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
- </p>
+
 
 ### Tech Stack and Tools:
 <p align="center">
