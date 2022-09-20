@@ -66,4 +66,4 @@
 
 ### Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tipogram&theme=vue-dark)](https://github.com/dheeraj13127/Tipogram)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tipogram&theme=vue-dark)](https://github.com/dheeraj13127/Tipogram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=famjam&theme=vue-dark)](https://github.com/dheeraj13127/famjam)
