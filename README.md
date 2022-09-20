@@ -16,12 +16,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
  
- <p align="">
-
- </p>
-
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj13127"/>
 </p>
 
 
