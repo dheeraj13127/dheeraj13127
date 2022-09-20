@@ -7,9 +7,9 @@
 + React Fanboy! <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="12" height="12" border="10"/>
 + Developer for Life :computer:
 + Worked as a Product Engineer @restless-monks
- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerajs7/)  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheerajkumar13127)
-
 ---
+
+ [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerajs7/)  [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dheerajkumar13127)
 
 ### Github Stats:
 
