@@ -62,3 +62,7 @@
 </p>
 
 [![Dheeraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=dheeraj13127&theme=react-dark)](https://github.com/dheeraj13127/github-readme-activity-graph)
+
+
+### Top Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tipogram)](https://github.com/dheeraj13127/Tipogram)
