@@ -11,9 +11,9 @@
 
 ### Github Stats:
 
-<p align="center">
+<div align="center">
 ![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=radical) 
-</p>
+</div>
 <p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj13127)](https://github.com/dheeraj13127/github-readme-stats)
 </p>
