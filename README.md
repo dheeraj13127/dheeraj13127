@@ -12,8 +12,8 @@
 ### Github Stats:
 
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&show_icons=true&theme=dark" style="marign-right:10px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj13127"/>
  </p>
  
  <p align="">
