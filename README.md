@@ -60,7 +60,6 @@
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 </p>
 
-[![Dheeraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=dheeraj13127&theme=react-dark)](https://github.com/dheeraj13127/github-readme-activity-graph)
 
 
 ### Top Repositories:
