@@ -1,4 +1,4 @@
-### Hi there everyone! :wave:
+### Hey folks! :wave:
 ---
 # This is Dheeraj.
 
