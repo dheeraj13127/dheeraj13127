@@ -27,6 +27,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tipogram&theme=vue-dark)](https://github.com/dheeraj13127/Tipogram)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=famjam&theme=vue-dark)](https://github.com/dheeraj13127/famjam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tripsify&theme=vue-dark)](https://github.com/dheeraj13127/Tripsify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=color-puller&theme=vue-dark)](https://github.com/dheeraj13127/color-puller)
+
 
 
 
