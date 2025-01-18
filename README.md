@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
      <a href="https://medium.com/@dheerajkumar13127" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="medium"/>
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
  </a>
     </td>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj13127&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="rumezaa" /></td>
