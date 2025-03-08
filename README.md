@@ -7,7 +7,7 @@
     👾 Building something you should
   </li>
   <li>
-    📈 Currently exploring vector dbs and Gen AI
+    📈 Exploring and Building RAG Applications
   </li>
   <li>
     ⭐ Looking for better opportunities :)
