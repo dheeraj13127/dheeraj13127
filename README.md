@@ -34,6 +34,9 @@
  </a>
     </td>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj13127&layout=compact&theme=nightowl&hide_border=true&exclude_repo=the-www-blog,clean-water-foundation&langs_count=6" alt="rumezaa" /></td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=dheeraj13127&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    </td>
   </tr>
 </table>
 
