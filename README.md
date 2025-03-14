@@ -23,6 +23,7 @@
   <tr>
     <th>Journey</th>
     <th>Github Journey</th>
+    <th>Github Stats</th>
   </tr>
   <tr>
     <td align="center"> 
