@@ -16,7 +16,7 @@
     📌 Master's Student @ Monash University </li>
 </ul>
 
-##  <a href="https://dheeraj-develops.vercel.app/">「 Find me 」</a>
+##  <a href="https://dheerajdevelops.app/">「 Find me 」</a>
 <h6>THE TLDR ON MY JOURNEY</h6>
 
 <table>
