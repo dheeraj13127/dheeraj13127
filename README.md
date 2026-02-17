@@ -41,12 +41,6 @@
   </tr>
 </table>
 
-## Major Projects
-[![ExpenseMinds](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=expense-minds&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dheeraj13127/expense-minds)
-[![Tripsify](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tripsify&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dheeraj13127/Tripsify)
-[![Color Puller](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=color-puller&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dheeraj13127/color-puller)
-[![FamJam](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=famjam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dheeraj13127/famjam)
-[![Torpedo Inc](https://github-readme-stats.vercel.app/api/pin/?username=dheeraj13127&repo=Tipogram&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dheeraj13127/Tipogram)
 
 
 
